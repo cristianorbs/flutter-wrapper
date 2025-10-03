@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
 
 class WebViewApp extends StatelessWidget {
   const WebViewApp({super.key});
-  static const myWebsite = "https://medium.com/@cristianorbs/about";
+  static const myWebsite = "https://medium.com/@cristianorbs";
 
   @override
   Widget build(BuildContext context) {
